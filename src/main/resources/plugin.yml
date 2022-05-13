@@ -1,0 +1,6 @@
+name: InfiModeration
+version: '${project.version}'
+main: me.sweplays.infimoderation.InfiModeration
+api-version: 1.18
+authors: [ SweplaysYT ]
+description: Highly customizable moderation plugin
