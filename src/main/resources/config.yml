@@ -1,0 +1,12 @@
+# Enable/Disable if plugin is gonna use Vault
+enable-vault: false
+
+# Enable/Disable if plugin is gonna use InvSee++
+enable-invsee: false
+
+# Enable/Disable if plugin is gonna use AdvancedBans
+enable-advancedbans: false
+
+# Enable/Disable if plugin is gonna use Custom Configuration
+# Coming Soon
+enable-custom-config: false

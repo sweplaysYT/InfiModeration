@@ -3,4 +3,8 @@ version: '${project.version}'
 main: me.sweplays.infimoderation.InfiModeration
 api-version: 1.18
 authors: [ SweplaysYT ]
+softdepend:
+  - Vault
+  - InvSeePlusPlus
+  - AdvancedBan
 description: Highly customizable moderation plugin
